@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/*
+ * Bootstrap Image Gallery Demo CSS 3.0.0
+ * https://github.com/blueimp/Bootstrap-Image-Gallery
+ *
+ * Copyright 2013, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+body {
+    padding-top: 60px;
+    background: #222;
+    color: #fff;
+}
+h1 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+a {
+    color: orange;
+}
+a:hover {
+    color: lightblue;
+    text-decoration: none;
+}
+.modal {
+	overflow: auto;
+	color: #333;
+}
+
+
+.border-right{
+    border-right: 10PX solid white;
+    padding: 5px
+}
+.border-top-bottom{
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+.panel-info{
+   margin-bottom:-1px;
+}
+.row{
+    padding: 10px;
+}
+
+@media all and (max-width: 749px) {
+  .border-right{
+    border-right:none;
+  }
+}
+
+p{
+    color:blue;
+}
+
+.img-responsive{
+    margin: 0 auto;
+}
+
+.Intro{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    color: #00F200;
+    font-size:20px;
+    text-align:center
+}
+
+.Title{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    color: #00F200;
+    font-size:50px;
+    text-align:center;
+}
+
+h5{
+font-size:25px;
+}

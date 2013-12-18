@@ -1,0 +1,21 @@
+﻿Take back our time from line with technology.
+109765350
+
+
+As individuals, we have no actual purpose in a line, we really only matter once we get to the front. Everyone might as well just be monopoly pieces, with someone moving us all along. We should be free to roam as we please, and just leave a token in our place, instead of being forced to trudge along in near torturous lines[1]. Restaurants are still trying to find a satisfactory way to seat their customers. They have yet to find a way to deal with amassing lines, while avoiding the no show problem, without frustrating customers at the same time[2]. Amusement parks have adapted fast passes, but they cost an arm and a leg, and are not easily applicable outside of the park[3]. Disney tries to hide their lines and other tricks, so we don't realize how long they actually are[1]. Still no one has found a way make life better for the customer.
+That is what Waitless is for. Using unique event and user IDs Waitless will keep track of everyones location in every line. Users will be free to wander as they please, and Waitless will call them when they are near the front of a line. The application will analyze and reorganize each line so that everyone gets where they want as efficiently as possible. 
+Waitless will use an easy to scale and deploy system so that it can be applied wherever people are forced to wait. I initially plan to only target people with iPhones, at smaller events like a Maryland Football game, though it should be applicable almost anywhere. I intend to make Waitless easy and cheap to deploy, and while I can truly only declare victory over lines when they are totally eliminated, for initial development I will look to measure free time gained when using the system in small simulations. 
+
+
+1. Stone, A. (2012, August 18). Why Waiting in Line Is Torture - NYTimes.com. The New York Times - Breaking News, World News & Multimedia. Retrieved September 6, 2013, from http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?pagewanted=all
+
+
+2. Miller, B. (n.d.). To Queue Or Not To Queue | News | Features | Food Arts. Welcome | Homepage | Food Arts. Retrieved September 6, 2013, from http://foodarts.com/news/features/27779/to-queue-or-not-to-queue
+
+
+3. Cochran, J. (2009, July 24). Is Six Flags' line-jumping Flash Pass worth the ransom you pay for it? - DailyFinance. DailyFinance - News and Advice for a Lifetime of Financial Decisions. Retrieved September 6, 2013, from http://www.dailyfinance.com/2009/07/24/is-six-flags-line-jumping-flash-pass-worth-the-ransom-you-pay-f/
+
+
+
+
+4. Reid, R. D., & Sanders, N. R. (2010). Operations management: an integrated approach (4th ed.). Hoboken, NJ: John Wiley.
